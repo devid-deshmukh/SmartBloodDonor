@@ -84,9 +84,9 @@ Follow these steps to set up and run the application on your local machine.
 
 ---
 
-## 🧪 Demonstration Steps (Viva Script)
+## 🧪 Demonstration Steps 
 
-Use these steps to showcase the integrated features during your demonstration.
+
 
 1.  **Server Startup:** Show the IntelliJ console output confirming the server started successfully on port 8080.
 2.  **Hospital Login:** Log in as a Hospital user.
@@ -99,5 +99,5 @@ Use these steps to showcase the integrated features during your demonstration.
 
 ## 👤 Team & Contact
 
-* **Developed by:** [Your Name]
-* **Contact:** [Your Email/Student ID]
+* **Developed by:** [Devid Deshmukh]
+* **Contact:** [23071230@ycce.in]
