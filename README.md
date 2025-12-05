@@ -88,7 +88,7 @@ Follow these steps to set up and run the application on your local machine.
 
 
 
-1.  **Server Startup:** Show the IntelliJ console output confirming the server started successfully on port 8080.
+1.  **Server Startup:** IntelliJ console output confirming the server started successfully on port 8080.
 2.  **Hospital Login:** Log in as a Hospital user.
 3.  **Create Urgent Request:** Navigate to the "Hospital Request" form and submit a CRITICAL request for a rare blood type (e.g., O-). *(This demonstrates Input/Output)*
 4.  **Check Logs:** Show the backend console/log output confirming the **SOS Broadcast Stub** triggered SMS/Email notifications to matched donors.
